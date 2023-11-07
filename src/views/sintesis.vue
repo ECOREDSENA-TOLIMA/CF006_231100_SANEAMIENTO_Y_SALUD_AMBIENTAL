@@ -3,9 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .titulo-sexto.color-adicional-2.mb-3
+      h2 Saneamiento y salud ambiental
+      i Síntesis: Análisis: Caracterización de peligros y riesgos asociados a factores ambientales
 
+    p.my-5 A continuación, se describe el tema principal del componente formativo Caracterización de condiciones sanitarias de establecimientos según normativas es esencial para garantizar la seguridad y bienestar de las personas. En este proceso se evalúan aspectos como la higiene y limpieza de las instalaciones, el manejo adecuado de los alimentos, el control de plagas y la disposición de residuos. Asimismo, se verifica el cumplimiento de las normas de bioseguridad, el mantenimiento de equipos médicos y la capacitación del personal en medidas de prevención de enfermedades. Esta caracterización permite identificar deficiencias y tomar acciones correctivas, asegurando entornos saludables y protegiendo la salud de los usuarios y trabajadores de dichos establecimientos.
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

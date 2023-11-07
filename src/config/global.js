@@ -1,9 +1,11 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Caracterización de peligros y riesgos asociados a factores ambientales',
+    descripcionCurso:
+      'El siguiente componente formativo busca conocer sobre los peligros y riesgos que existen en las diferentes condiciones ambientales, apoyándose de igual manera en la normatividad existente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,13 +33,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Recopilación y descripción de peligros y riesgos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Fuentes de información',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Instrumentos y métodos de trabajo',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Diagrama de procesos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Gestión por procesosn',
+            hash: 't_1_4',
           },
         ],
       },
@@ -45,14 +62,43 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Identificación de peligros y riesgos en factores ambientales',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Conceptos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Metodologías de identificación y valoración',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Interpretación de normatividad',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto saneamiento',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Sistemas de vigilancia y salud pública',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Factores ambientales',
+            hash: 't_3_3',
+          },
+        ],
       },
     ],
     subMenu: [
