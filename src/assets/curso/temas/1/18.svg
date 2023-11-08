@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="94" viewBox="0 0 1030 94">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1073759" data-name="Grupo 1073759" transform="translate(-285 -1111)">
+    <g id="Grupo_1072963" data-name="Grupo 1072963" transform="translate(1315 1205) rotate(180)">
+      <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="1030" height="94" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Grupo_1072964" data-name="Grupo 1072964" transform="translate(599 1132.823)">
+      <rect id="Rectángulo_377338" data-name="Rectángulo 377338" width="658" height="50" rx="20" transform="translate(-128 0.177)" fill="#c1e29a"/>
+      <text id="Riesgo_ƒ_probabilidad_x_consecuencias_" data-name="Riesgo = ƒ (probabilidad x consecuencias)" transform="translate(-80 36.177)" fill="#12263f" font-size="30" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Riesgo = ƒ (probabilidad x consecuencias)</tspan></text>
+    </g>
+  </g>
+</svg>
