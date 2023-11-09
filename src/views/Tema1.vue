@@ -185,13 +185,20 @@
         h2#t_1_3 1.3 Diagrama de procesos 
       p.mb-5 El diagrama de procesos se centra en la determinación de la matriz de evaluación de riesgos e impactos en tres fases clave. En la primera fase, se identifican los peligros ambientales relacionados con la empresa o proyecto. Luego, en la fase de análisis de riesgo, se evalúan la probabilidad y el impacto de estos riesgos, junto con la definición de medidas de control. Finalmente, en la tercera fase, se emite una matriz que resume las medidas necesarias para erradicar o mitigar los riesgos identificados, con el propósito de minimizar los impactos ambientales y prevenir incidentes. Este enfoque sistemático busca mejorar el desempeño ambiental y reducir el impacto negativo en el medio ambiente.
 
-    .row 
-      figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-        img.mb-1(src='@/assets/curso/temas/1/15.svg' alt='En la figura 2 se muestran las tres fases de procesos: Identificación, Análisis y solución.').m-auto(data-aos="fade-right")
-      figure.movil.mt-0
-        .row.justify-content-center.d-lg-none.d-md-none        
-          img(src="@/assets/curso/temas/1/16.svg" data-aos="zoom-in-up")
-      
+   
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-10 
+        .titulo-sexto.mb-0.color-acento-contenido.mb-4
+          p.mb-0 #[b Figura 2.] 
+            i Diagrama de procesos
+
+        .row
+          figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+            img.mb-1(src='@/assets/curso/temas/1/15.svg' alt='En la figura 2 se muestran las tres fases de procesos: Identificación, Análisis y solución.').m-auto(data-aos="fade-right")
+          figure.movil.mt-0
+            .row.justify-content-center.d-lg-none.d-md-none        
+              img(src="@/assets/curso/temas/1/16.svg" data-aos="zoom-in-up")
+          
     p.my-5 Un diagrama de procesos es una herramienta fundamental para la gestión ambiental responsable, ya que ayuda a identificar, evaluar y controlar los riesgos ambientales, lo que a su vez contribuye a la protección del medio ambiente y al cumplimiento de las normativas aplicables.
 
     Separador
@@ -270,7 +277,7 @@
             p Identificar todos los aspectos ambientales de sus actividades, productos y servicios.        
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/1/21.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/1/21.png', alt='Texto que describa la imagen')  
 
         .row(titulo="Paso 4")
           .col-md-6.mb-4.mb-md-0

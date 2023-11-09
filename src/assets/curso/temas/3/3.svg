@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="421.228" viewBox="0 0 1030 421.228">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1075640" data-name="Grupo 1075640" transform="translate(-285 -3061)">
+    <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="1030" height="421.228" transform="translate(1315 3482.228) rotate(180)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_823839" data-name="Trazado 823839" d="M-7765.024-5970.137l176-74" transform="translate(8355.023 9217.736)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828797" data-name="Trazado 828797" d="M-7765.024-5993.553l117.661-50.584" transform="translate(8701.363 9173.236)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828800" data-name="Trazado 828800" d="M-7765.024-6017.553l81.371-26.584" transform="translate(8696.829 9397.736)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828801" data-name="Trazado 828801" d="M-7686.1-6006.637l-78.929-37.5" transform="translate(8695.581 9429.236)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828798" data-name="Trazado 828798" d="M-7765.024-6001.995l74.3-42.142" transform="translate(299.267 12967.838) rotate(56)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828799" data-name="Trazado 828799" d="M-7765.024-6044.137l121.954,5.061" transform="translate(267.33 12993.5) rotate(56)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828796" data-name="Trazado 828796" d="M-7589.023-5934.138l-176-110" transform="translate(8355.023 9308.736)" fill="none" stroke="#707070" stroke-width="2"/>
+    <rect id="Rectángulo_378770" data-name="Rectángulo 378770" width="210" height="100" rx="23" transform="translate(390 3197.6)" fill="#ffae7e"/>
+    <rect id="Rectángulo_378053" data-name="Rectángulo 378053" width="184" height="59" rx="23" transform="translate(759 3144.1)" fill="#c1e29a"/>
+    <rect id="Rectángulo_378776" data-name="Rectángulo 378776" width="184" height="59" rx="23" transform="translate(759 3345.1)" fill="#c1e29a"/>
+    <text id="Factores_bióticos" data-name="Factores bióticos" transform="translate(851 3180.1)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-61.875" y="0">Factores bióticos</tspan></text>
+    <text id="Factores_abióticos" data-name="Factores abióticos" transform="translate(851 3381.1)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-66.164" y="0">Factores abióticos</tspan></text>
+    <rect id="Rectángulo_378771" data-name="Rectángulo 378771" width="184" height="37" rx="18.5" transform="translate(1000 3125.6)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378772" data-name="Rectángulo 378772" width="184" height="37" rx="18.5" transform="translate(1000 3193.6)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378773" data-name="Rectángulo 378773" width="184" height="37" rx="18.5" transform="translate(1000 3261.6)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378774" data-name="Rectángulo 378774" width="184" height="37" rx="18.5" transform="translate(1000 3336.1)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378775" data-name="Rectángulo 378775" width="184" height="37" rx="18.5" transform="translate(1000 3404.1)" fill="#ffd4bb"/>
+    <text id="Productores" transform="translate(1092 3148.6)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.008" y="0">Productores</tspan></text>
+    <text id="Consumidores" transform="translate(1092 3216.6)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.188" y="0">Consumidores</tspan></text>
+    <text id="Descomponedores" transform="translate(1092 3284.6)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.402" y="0">Descomponedores</tspan></text>
+    <text id="Factores_físicos" data-name="Factores físicos" transform="translate(1092 3359.1)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-57.195" y="0">Factores físicos</tspan></text>
+    <text id="Factores_Químicos" data-name="Factores Químicos" transform="translate(1092 3427.1)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.141" y="0">Factores Químicos</tspan></text>
+    <text id="Clasificación_de_factores_ambientales" data-name="Clasificación de
+factores ambientales" transform="translate(412 3241.6)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Clasificación de</tspan><tspan x="0" y="25">factores ambientales</tspan></text>
+  </g>
+</svg>
