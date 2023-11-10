@@ -201,8 +201,19 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/3/8.png', alt='')
+    p Estas interacciones entre productores, consumidores y descomponedores son fundamentales para la transferencia de energía y nutrientes a lo largo de un ecosistema, manteniendo su equilibrio y sostenibilidad.          
 
-    
+    .row.mb-4
+      .col-auto.my-5.mb-sm-0        
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #C1E29A") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px; background-color: #C1E29A") 
+              .col  
+              img(src="@/assets/curso/temas/2/23.svg" style="max-width: 65%; display: block; margin-top: -12px; " ) 
+            b.mx-3 Factores abióticos
+
+    p Estos son componentes no vivos del entorno que también afectan el ecosistema. Incluyen factores como la temperatura, la luz solar, el agua, el suelo, el pH, la presión atmosférica y otros elementos físicos y químicos. Los factores abióticos pueden influir en la distribución y la salud de los seres vivos en un área determinada y desempeñan un papel importante en la regulación de los ciclos biogeoquímicos. Los factores abióticos incluyen básicamente 4 grandes elementos: agua, aire, suelo y energía solar, como se podrá ver a continuación.
+
     .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right" style="background-color:#E7FFD1")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
@@ -241,9 +252,204 @@
             figure
               img(src='@/assets/curso/temas/3/12.png', alt='En la  imagen se muestra un ejemplo de flujo de energía para el sistema de refrigeración de lácteos y carnes frías para un supermercado de tamaño mediano. Las flechas azules corresponden al flujo de electricidad y las flechas de color verde corresponde al flujo del proceso de refrigeración. También se aprecia que la salida del sistema es obtener una temperatura constante de 3°C durante las 24 horas del día con el fin de que el producto se conserve, y que la organización cuenta con dos medidores de electricidad que facilita y se deben tener en cuenta para la recopilación de datos para el cálculo del IDEn.', @click="modal1=true")
                 
+    p Los factores abióticos se dividen en factores físicos y químicos. Estos dos grupos representan aspectos distintos del entorno no vivo que influyen en los ecosistemas de diferentes maneras, como se muestra a continuación:
+
+    .row.mb-4
+      .col-auto.my-5.mb-sm-0        
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #C1E29A") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px; background-color: #C1E29A") 
+              .col  
+              img(src="@/assets/curso/temas/2/23.svg" style="max-width: 65%; display: block; margin-top: -12px; " ) 
+            b.mx-3 Factores físicos
+
+    p.my-5 Los factores físicos del medio ambiente son elementos y condiciones no vivos que influyen en el entorno natural y en los seres vivos que lo habitan. Estos factores pueden variar ampliamente según la ubicación geográfica y el tipo de ecosistema, y desempeñan un papel fundamental en la determinación de la biodiversidad y la distribución de las especies. A continuación, algunos ejemplos de factores físicos del medio ambiente: 
+    
+    .row.justify-content-center.mb-5
+      .col-lg-11.position-relative
+        .crd.py-4(style="background-color: #D5FFF5; border-radius: 15px 15px 0 0")
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/13.svg", alt="alt").img150
+            .col.m-1
+              h5 Temperatura
+              p La temperatura ambiente es un factor crítico que afecta tanto a los seres vivos como a los procesos biogeoquímicos. Las diferentes especies tienen rangos de temperatura óptima para su crecimiento y reproducción.
+        .crd.py-4(style="background-color: #E7FFD1; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/14.svg", alt="alt").img150
+            .col.m-1
+              h5 Luz solar
+              p La cantidad de luz solar disponible influye en la fotosíntesis de las plantas, que es la base de la cadena alimentaria. También regula los ritmos biológicos y las estaciones.
+        .crd.py-4(style="background-color: #D5FFF5; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/15.svg", alt="alt").img150
+            .col.m-1
+              h5 Humedad
+              p La cantidad de humedad en el aire y el suelo afecta directamente a la disponibilidad de agua para las plantas y los animales.
+        .crd.py-4(style="background-color: #E7FFD1; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/16.svg", alt="alt").img150
+            .col.m-1
+              h5 Precipitación
+              p La cantidad y el patrón de las precipitaciones son esenciales para la distribución de la vegetación y la vida acuática. Los ecosistemas que reciben poca lluvia son desiertos, mientras que aquellos con lluvias regulares son selvas tropicales.
+        .crd.py-4(style="background-color: #D5FFF5; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/17.svg", alt="alt").img150
+            .col.m-1
+              h5 Topografía
+              p La forma del terreno, como montañas, valles, colinas y planicies, influye en la disponibilidad de agua y en la diversidad de hábitats.
+        .crd.py-4(style="background-color: #E7FFD1; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/18.svg", alt="alt").img150
+            .col.m-1
+              h5 Corrientes de agua
+              p Los ríos y arroyos proporcionan hábitats acuáticos y transportan nutrientes y sedimentos a través del paisaje.
+        .crd.py-4(style="background-color: #D5FFF5; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/19.svg", alt="alt").img150
+            .col.m-1
+              h5 Geología
+              p El tipo de suelo y la composición geológica de una región determinan la fertilidad del suelo y la disponibilidad de minerales esenciales para la vida vegetal y animal.
+        .crd.py-4(style="background-color: #E7FFD1; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/20.svg", alt="alt").img150
+            .col.m-1
+              h5 Altitud
+              p La altitud sobre el nivel del mar afecta la presión atmosférica y la disponibilidad de oxígeno, lo que influye en la fauna y flora que pueden sobrevivir en un área determinada.
+        .crd.py-4(style="background-color: #D5FFF5; ")  
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/3/21.svg", alt="alt").img150
+            .col.m-1
+              h5 Vientos
+              p La dirección y la velocidad del viento pueden afectar la distribución de las plantas, la erosión del suelo y la dispersión de semillas.
+           
+      
+    p.mt-5 Estos son solo algunos ejemplos de factores físicos que influyen en el medio ambiente. La interacción de estos factores físicos crea una amplia variedad de ecosistemas en todo el mundo y determina qué organismos pueden vivir en cada uno de ellos.
+       
+      
+    .row.mb-4
+      .col-auto.my-5.mb-sm-0.mb-5        
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #C1E29A") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px; background-color: #C1E29A") 
+              .col  
+              img(src="@/assets/curso/temas/2/23.svg" style="max-width: 65%; display: block; margin-top: -12px; " ) 
+            b.mx-3 Factores químicos
+
+    .row.align-items-center.my-5.col-lg-12.mb-2(style="background:#E7FFD1")           
+      .col-1.p-1
+      .col-4.p-1
+          img(src="@/assets/curso/temas/3/22.svg" style="max-width: 65%; display: block; margin-top: -32px; margin-bottom: -32px;  " ) 
+      .col-7.p-1
+        .col-sm.mb-3.mb-sm-0.px-1
+          ul.lista-ul--color
+            li 
+              | Los factores químicos ambientales se refieren a los componentes químicos presentes en el entorno natural que pueden influir en la salud de los seres vivos y en la calidad del ecosistema. Estos factores químicos pueden variar ampliamente en función de la ubicación geográfica y del tipo de ecosistema. A continuación, algunos ejemplos de factores químicos ambientales: 
+
+    .row.my-5
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/24.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/25.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/26.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/27.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+    .row.my-5
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/28.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/29.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/30.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+      .col-sm-6.col-lg-3
+        .tarjeta--boton.color-secundario.p-4
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/3/31.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Intuition important
+          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+
+        
+        
+    
 
     
-   
     Separador
     
         

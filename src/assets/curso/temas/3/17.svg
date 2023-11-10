@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107" height="107" viewBox="0 0 107 107">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path1467" d="M0-682.665H69.41v69.41H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_156312" data-name="Grupo 156312" transform="translate(0)">
+    <circle id="Elipse_5845" data-name="Elipse 5845" cx="53.5" cy="53.5" r="53.5" transform="translate(0)" fill="#ffae7e"/>
+    <g id="g1461" transform="translate(24 705.588)">
+      <g id="g1463" transform="translate(-5 -682.665)">
+        <g id="g1465" clip-path="url(#clip-path)">
+          <g id="g1471" transform="translate(28.605 8.27)">
+            <path id="path1473" d="M-93.9-60a6.107,6.107,0,0,1,6.1,6.1,6.107,6.107,0,0,1-6.1,6.1,6.107,6.107,0,0,1-6.1-6.1A6.107,6.107,0,0,1-93.9-60Zm0,8.134A2.036,2.036,0,0,0-91.866-53.9,2.036,2.036,0,0,0-93.9-55.933,2.036,2.036,0,0,0-95.933-53.9,2.036,2.036,0,0,0-93.9-51.866Z" transform="translate(100 60)"/>
+          </g>
+          <path id="path1475" d="M229.8-654.06H201.333v-28.6H229.8Zm-24.4-4.067h20.335V-678.6H205.4Z" transform="translate(-180.862 682.665)"/>
+          <path id="path1477" d="M261.668-349.131H241.333v-12.2h20.335ZM245.4-353.2h12.2v-4.067H245.4Z" transform="translate(-216.795 394.004)"/>
+          <g id="g1479" transform="translate(16.264 40.279)">
+            <path id="path1481" d="M-21.3-232.239l-3.871-1.249,9-27.886,3.871,1.249Z" transform="translate(25.175 261.374)"/>
+          </g>
+          <g id="g1483" transform="translate(40.286 40.286)">
+            <path id="path1485" d="M-16.262,4.018l-8.848-27.9,3.877-1.23,8.848,27.9Z" transform="translate(25.11 25.11)"/>
+          </g>
+          <g id="g1487" transform="translate(32.672 40.806)">
+            <path id="path1489" d="M-15.933-232.728H-20v-28.6h4.067Z" transform="translate(20 261.333)"/>
+          </g>
+          <g id="g1491" transform="translate(32.672 24.538)">
+            <path id="path1493" d="M-15.933-87.8H-20V-100h4.067Z" transform="translate(20 100)"/>
+          </g>
+          <g id="g1495" transform="translate(0 12.337)">
+            <path id="path1497" d="M8.27-15.933H0V-20H8.27Z" transform="translate(0 20)"/>
+          </g>
+          <g id="g1499" transform="translate(12.337 12.337)">
+            <path id="path1501" d="M18.3-15.933H0V-20H18.3Z" transform="translate(0 20)"/>
+          </g>
+          <g id="g1503" transform="translate(38.772 12.337)">
+            <path id="path1505" d="M18.3-15.933H0V-20H18.3Z" transform="translate(0 20)"/>
+          </g>
+          <g id="g1507" transform="translate(61.141 12.337)">
+            <path id="path1509" d="M8.27-15.933H0V-20H8.27Z" transform="translate(0 20)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
