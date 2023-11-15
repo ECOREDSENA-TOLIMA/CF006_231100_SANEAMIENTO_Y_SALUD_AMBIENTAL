@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Identificación de diferentes variables asociados a factores ambientales
+          h2 Caracterización de peligros y riesgos asociados a factores ambientales
         p.mb-4 #[b Objetivo:] identificar las diferentes variables asociadas a factores ambientales sobre los peligros y riesgos que existen en las diferentes condiciones ambientales, apoyándose de igual manera en la normatividad existente, para contribuir en la preservación del medio ambiente
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

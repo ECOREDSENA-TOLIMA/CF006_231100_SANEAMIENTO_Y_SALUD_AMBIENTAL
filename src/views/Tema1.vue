@@ -172,10 +172,10 @@
         h2#t_1_3 1.4 Gestión por procesos
 
     .row.align-items-center.my-3.col-lg-12.mb-4 
-      .col-5
+      .col-sm-5
         figure
           img(src='@/assets/curso/temas/1/17.png').m-auto(data-aos="fade-right")            
-      .col-7.p-2(style="background:#E8FEFF")
+      .col-sm-7.p-2(style="background:#E8FEFF")
         p.mb-5(style="overflow-x: hidden !important") La gestión por procesos es un enfoque esencial en la gestión de riesgos medioambientales, ya que busca optimizar la capacidad de una organización para alcanzar sus objetivos, incluyendo la gestión de amenazas y situaciones adversas relacionadas con el medio ambiente. Este enfoque implica identificar y aprovechar oportunidades incluso en situaciones adversas, considerando diversos aspectos medioambientales.
 
         p.mb-5(style="overflow-x: hidden !important") La gestión del riesgo medioambiental implica una serie de actividades destinadas a controlar y minimizar los riesgos relacionados con el medio ambiente. Se basa en la evaluación de la probabilidad de que ocurran eventos negativos en un escenario dado y las posibles consecuencias negativas asociadas a esos eventos.

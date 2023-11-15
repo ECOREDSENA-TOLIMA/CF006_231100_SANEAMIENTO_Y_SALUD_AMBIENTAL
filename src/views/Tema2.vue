@@ -10,11 +10,11 @@
     p Es esencial para la gestión efectiva de los aspectos ambientales en cualquier organización. Los peligros ambientales son situaciones o condiciones que tienen el potencial de causar daño al medio ambiente, mientras que los riesgos son la probabilidad de que esos peligros se materialicen y generen un impacto negativo.
 
     .row.align-items-center.my-3.col-lg-12.mb-4 
-      .col-5
+      .col-sm-5
         figure
           img(src='@/assets/curso/temas/2/1.svg').m-auto(data-aos="fade-right")  
 
-      .col-7.p-0(style="background:#fff")
+      .col-sm-7.p-0(style="background:#fff")
 
         p.mb-3(style="overflow-x: hidden !important") La definición de riesgo según la ISO 14001:2015, que incluye tanto amenazas como oportunidades, destaca la importancia de considerar no solo los efectos negativos sino también los positivos que pueden surgir de situaciones ambientales.
 
@@ -31,7 +31,7 @@
     p.my-5 En la identificación de peligros y riesgos en factores ambientales, se utilizan varios conceptos clave para comprender y evaluar las amenazas para el medio ambiente y la salud pública. A continuación, algunos de los conceptos más importantes:
 
     .row.align-items-center.my-3.col-lg-12.mb-4(style="background:#E7FFD1")           
-      .col-7.py-5
+      .col-sm-7.py-5
         .col-sm.mb-5.mb-sm-0.px-5
           ul.lista-ul--color
             li.my-4 
@@ -88,7 +88,7 @@
               i.fas.fa-check
               b Gestión de riesgos ambientales: 
               | es el proceso de identificar, evaluar y gestionar los riesgos ambientales para proteger el medio ambiente y la salud pública. Incluye la planificación y la implementación de medidas de mitigación y respuesta.
-      .col-5
+      .col-sm-5
         figure
           img.pt-5.px-3(src='@/assets/curso/temas/2/2.png').m-auto
           img.py-2.px-3(src='@/assets/curso/temas/2/3.png').m-auto

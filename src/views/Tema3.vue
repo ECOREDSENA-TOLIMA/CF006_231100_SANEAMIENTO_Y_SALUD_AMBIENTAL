@@ -43,11 +43,11 @@
         h2#t_3_1 3.1 Concepto saneamiento
 
     .row.align-items-center.my-3.col-lg-12.mb-4 
-      .col-4
+      .col-sm-4
         figure
           img.py-2.px-0(src='@/assets/curso/temas/3/1.png').m-auto 
 
-      .col-8.p-4(style="background:#fff")
+      .col-sm-8.p-4(style="background:#fff")
 
         p.mb-3(style="overflow-x: hidden !important") El saneamiento ambiental es un conjunto de acciones y medidas destinadas a preservar y mejorar la calidad del ambiente en el que vivimos, con el objetivo de proteger la salud de las personas y prevenir enfermedades. Esta disciplina se enfoca en el control y la gestión de factores de riesgo ambiental que pueden afectar la salud humana y el bienestar general.
 
@@ -86,7 +86,7 @@
         h2#t_3_2 3.2 Sistemas de vigilancia y salud pública
 
     .row.align-items-center.my-3.col-lg-12.mb-4(style="background:#E7FFD1")           
-      .col-7.py-5
+      .col-sm-7.py-5
         .col-sm.mb-5.mb-sm-0.px-5
           ul.lista-ul--color
             li.my-4 
@@ -95,7 +95,7 @@
             li.my-4  
               p En Colombia, el Sistema Nacional de Vigilancia en Salud Pública (SIVIGILA) es un componente crucial de la gestión de la salud pública. Su función principal es recopilar, analizar y difundir información relevante sobre la salud de la población, lo que permite detectar tendencias, brotes de enfermedades, factores de riesgo y otros eventos que puedan afectar la salud de las comunidades. Además, SIVIGILA orienta la planificación y ejecución de políticas y estrategias de salud pública.
 
-      .col-5
+      .col-sm-5
         figure
           img.py-5.px-3(src='@/assets/curso/temas/3/2.png').m-auto
 
@@ -355,9 +355,9 @@
 
     .row.align-items-center.my-5.col-lg-12.mb-2(style="background:#E7FFD1")           
       .col-1.p-1
-      .col-4.p-1
+      .col-sm-4.p-1.mb-4
           img(src="@/assets/curso/temas/3/22.svg" style="max-width: 65%; display: block; margin-top: -32px; margin-bottom: -32px;  " ) 
-      .col-7.p-1
+      .col-sm-7.p-1
         .col-sm.mb-3.mb-sm-0.px-1
           ul.lista-ul--color
             li 
