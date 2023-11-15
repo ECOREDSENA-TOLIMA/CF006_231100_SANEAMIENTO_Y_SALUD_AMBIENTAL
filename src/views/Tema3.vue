@@ -266,7 +266,8 @@
     p.my-5 Los factores físicos del medio ambiente son elementos y condiciones no vivos que influyen en el entorno natural y en los seres vivos que lo habitan. Estos factores pueden variar ampliamente según la ubicación geográfica y el tipo de ecosistema, y desempeñan un papel fundamental en la determinación de la biodiversidad y la distribución de las especies. A continuación, algunos ejemplos de factores físicos del medio ambiente: 
     
     .row.justify-content-center.mb-5
-      .col-lg-11.position-relative
+      .col-1
+      .col-lg-10.position-relative
         .crd.py-4(style="background-color: #D5FFF5; border-radius: 15px 15px 0 0")
           .row.align-items-center
             .col-auto

@@ -9,12 +9,12 @@
 
     p Es esencial para la gestión efectiva de los aspectos ambientales en cualquier organización. Los peligros ambientales son situaciones o condiciones que tienen el potencial de causar daño al medio ambiente, mientras que los riesgos son la probabilidad de que esos peligros se materialicen y generen un impacto negativo.
 
-    .row.align-items-center.my-3.col-lg-12.mb-4 
+    .row.align-items-center.my-5.col-lg-12
       .col-sm-5
         figure
           img(src='@/assets/curso/temas/2/1.svg').m-auto(data-aos="fade-right")  
 
-      .col-sm-7.p-0(style="background:#fff")
+      .col-sm-7.p-0.my-5(style="background:#fff")
 
         p.mb-3(style="overflow-x: hidden !important") La definición de riesgo según la ISO 14001:2015, que incluye tanto amenazas como oportunidades, destaca la importancia de considerar no solo los efectos negativos sino también los positivos que pueden surgir de situaciones ambientales.
 
@@ -30,7 +30,8 @@
 
     p.my-5 En la identificación de peligros y riesgos en factores ambientales, se utilizan varios conceptos clave para comprender y evaluar las amenazas para el medio ambiente y la salud pública. A continuación, algunos de los conceptos más importantes:
 
-    .row.align-items-center.my-3.col-lg-12.mb-4(style="background:#E7FFD1")           
+    .row.align-items-center.my-3.col-lg-12.mb-4(style="background:#E7FFD1") 
+              
       .col-sm-7.py-5
         .col-sm.mb-5.mb-sm-0.px-5
           ul.lista-ul--color
@@ -38,6 +39,11 @@
               i.fas.fa-check
               b Peligro ambiental: 
               | como se mencionó anteriormente, un peligro ambiental se refiere a una situación, sustancia, evento o condición que tiene el potencial de causar daño al medio ambiente o a la salud humana. Pueden ser naturales o de origen humano.
+              
+              .col-sm-5   
+                figure.movil.mt-0
+                  .row.justify-content-center.d-lg-none.d-md-none  
+                    img.pt-5.px-3(src='@/assets/curso/temas/2/2.png').m-auto  
 
             li.my-4  
               i.fas.fa-check
@@ -53,6 +59,11 @@
               i.fas.fa-check
               b Probabilidad de ocurrencia: 
               | indica cuán probable es que ocurra un riesgo ambiental en un período de tiempo determinado. Puede ser expresada en términos cualitativos o cuantitativos.
+
+            .col-sm-5   
+              figure.movil.mt-0
+                .row.justify-content-center.d-lg-none.d-md-none  
+                  img.pb-5.px-3(src='@/assets/curso/temas/2/4.png').m-auto 
 
             li.my-4  
               i.fas.fa-check
@@ -79,6 +90,11 @@
               b Resiliencia ambiental: 
               | la capacidad de un sistema ambiental para resistir, absorber, adaptarse y recuperarse de los impactos de un riesgo ambiental. Una mayor resiliencia reduce la vulnerabilidad.
 
+              .col-sm-5   
+                figure.movil.mt-0
+                  .row.justify-content-center.d-lg-none.d-md-none  
+                    img.py-2.px-3(src='@/assets/curso/temas/2/3.png').m-auto
+             
             li.my-4  
               i.fas.fa-check
               b Vulnerabilidad ambiental: 
@@ -89,10 +105,13 @@
               b Gestión de riesgos ambientales: 
               | es el proceso de identificar, evaluar y gestionar los riesgos ambientales para proteger el medio ambiente y la salud pública. Incluye la planificación y la implementación de medidas de mitigación y respuesta.
       .col-sm-5
-        figure
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
           img.pt-5.px-3(src='@/assets/curso/temas/2/2.png').m-auto
           img.py-2.px-3(src='@/assets/curso/temas/2/3.png').m-auto
           img.pb-5.px-3(src='@/assets/curso/temas/2/4.png').m-auto
+      
+      
+        
 
     p.my-5 Estos conceptos son fundamentales para entender y abordar los riesgos ambientales, ya que proporcionan un marco conceptual para la toma de decisiones y la gestión de situaciones que puedan poner en peligro el medio ambiente y la salud de las personas.
     
