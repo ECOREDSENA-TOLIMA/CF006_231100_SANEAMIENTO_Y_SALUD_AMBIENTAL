@@ -58,7 +58,7 @@
           | garantizar el acceso a agua potable segura y la disposición adecuada de aguas residuales para prevenir la contaminación de fuentes de agua y brotes de enfermedades transmitidas por el agua.
 
         p.mb-3(style="overflow-x: hidden !important")          
-          b Manejo de residuos:
+          b Manejo de residuos: 
           | promover la recolección, disposición y tratamiento adecuado de los desechos sólidos y líquidos para prevenir la acumulación de basura y la contaminación del suelo y el agua.
  
         p.mb-3(style="overflow-x: hidden !important")          
@@ -66,15 +66,15 @@
           | realizar acciones para prevenir la proliferación de organismos vectores, como mosquitos, que transmiten enfermedades como el dengue y la malaria.
 
         p.mb-3(style="overflow-x: hidden !important")          
-          b Calidad del aire:
+          b Calidad del aire: 
           | controlar las emisiones de contaminantes atmosféricos que pueden tener efectos negativos en la salud respiratoria de las personas.
 
         p.mb-3(style="overflow-x: hidden !important")          
-          b Saneamiento básico:
+          b Saneamiento básico: 
           | promover la instalación y el mantenimiento de sistemas de saneamiento básico en viviendas y comunidades, que incluyen sistemas de abastecimiento de agua, alcantarillado y disposición segura de excretas.
 
         p.mb-3(style="overflow-x: hidden !important")          
-          b Seguridad alimentaria:
+          b Seguridad alimentaria: 
           |  garantizar que los alimentos se manipulen, almacenen y preparen de manera segura para prevenir enfermedades transmitidas por alimentos contaminados. 
 
     p.my-5 El saneamiento ambiental es esencial para prevenir enfermedades, mejorar la calidad de vida y promover un entorno saludable y sostenible para las generaciones presentes y futuras. También desempeña un papel crucial en la conservación de los recursos naturales y la protección del medio ambiente.
@@ -371,8 +371,8 @@
               figure(style="min-height: 170px;")  
                 img(src='@/assets/curso/temas/3/24.svg', alt='')
 
-          h3.text-center Calidad del agua:
-            p.text-small  la composición química del agua, incluyendo la concentración de minerales, nutrientes y contaminantes, es fundamental para la vida acuática y puede afectar la calidad del agua potable.
+          h3.text-center Calidad del agua
+            p.text-small  La composición química del agua, incluyendo la concentración de minerales, nutrientes y contaminantes, es fundamental para la vida acuática y puede afectar la calidad del agua potable.
 
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
@@ -382,8 +382,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/25.svg', alt='')
 
-          h3.text-center Contaminantes del suelo:
-            p.text-small  la presencia de contaminantes químicos en el suelo, como metales pesados, pesticidas y productos químicos industriales, puede tener un impacto negativo en la salud de las plantas, los animales y los seres humanos que dependen del suelo.
+          h3.text-center Contaminantes del suelo
+            p.text-small  La presencia de contaminantes químicos en el suelo, como metales pesados, pesticidas y productos químicos industriales, puede tener un impacto negativo en la salud de las plantas, los animales y los seres humanos que dependen del suelo.
 
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0
@@ -393,8 +393,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/26.svg', alt='')
 
-          h3.text-center Contaminación atmosférica:
-            p.text-small  los contaminantes del aire, como gases tóxicos, partículas en suspensión y compuestos orgánicos volátiles, pueden afectar la calidad del aire y tener consecuencias para la salud humana y la vida silvestre.
+          h3.text-center Contaminación atmosférica
+            p.text-small  Los contaminantes del aire, como gases tóxicos, partículas en suspensión y compuestos orgánicos volátiles, pueden afectar la calidad del aire y tener consecuencias para la salud humana y la vida silvestre.
 
 
       .col-sm-6.col-lg-3
@@ -404,8 +404,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/27.svg', alt='')
 
-          h3.text-center Nutrientes:
-            p.text-small  la disponibilidad de nutrientes esenciales, como nitrógeno y fósforo, puede influir en la productividad de los ecosistemas acuáticos y terrestres. El exceso de nutrientes, en forma de contaminación por nutrientes, puede causar problemas como la proliferación de algas y la eutrofización de cuerpos de agua.
+          h3.text-center Nutrientes
+            p.text-small  La disponibilidad de nutrientes esenciales, como nitrógeno y fósforo, puede influir en la productividad de los ecosistemas acuáticos y terrestres. El exceso de nutrientes, en forma de contaminación por nutrientes, puede causar problemas como la proliferación de algas y la eutrofización de cuerpos de agua.
 
     .row.my-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
@@ -415,8 +415,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/28.svg', alt='')
 
-          h3.text-center Acidez y alcalinidad:
-            p.text-small  el pH del suelo y del agua es un factor químico importante que puede afectar la disponibilidad de nutrientes y la salud de los organismos acuáticos y terrestres.
+          h3.text-center Acidez y alcalinidad
+            p.text-small  El pH del suelo y del agua es un factor químico importante que puede afectar la disponibilidad de nutrientes y la salud de los organismos acuáticos y terrestres.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.color-secundario.p-4(style="min-height: 530px;")
@@ -425,8 +425,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/29.svg', alt='')
 
-          h3.text-center Toxicidad:
-            p.text-small  la presencia de sustancias químicas tóxicas, como productos químicos industriales, metales pesados y compuestos orgánicos, puede tener efectos dañinos en la vida silvestre y la salud humana.
+          h3.text-center Toxicidad
+            p.text-small  La presencia de sustancias químicas tóxicas, como productos químicos industriales, metales pesados y compuestos orgánicos, puede tener efectos dañinos en la vida silvestre y la salud humana.
       .col-sm-6.col-lg-3.mb-4.mb-sm-0
         .tarjeta--boton.color-secundario.p-4(style="min-height: 530px;")
           .row.justify-content-center.mb-3
@@ -434,8 +434,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/30.svg', alt='')
 
-          h3.text-center Contaminantes emergentes:
-            p.text-small  estos son productos químicos que han sido identificados recientemente como contaminantes ambientales, como productos farmacéuticos y productos químicos utilizados en la fabricación de productos de consumo.
+          h3.text-center Contaminantes emergentes
+            p.text-small  Estos son productos químicos que han sido identificados recientemente como contaminantes ambientales, como productos farmacéuticos y productos químicos utilizados en la fabricación de productos de consumo.
 
       .col-sm-6.col-lg-3
         .tarjeta--boton.color-secundario.p-4(style="min-height: 530px;")
@@ -444,8 +444,8 @@
               figure(style="min-height: 170px;")
                 img(src='@/assets/curso/temas/3/31.svg', alt='')
 
-          h3.text-center Ciclos biogeoquímicos:
-            p.text-small  los ciclos químicos naturales, como el ciclo del carbono, nitrógeno y fósforo, son esenciales para el funcionamiento de los ecosistemas y pueden ser influenciados por actividades humanas.
+          h3.text-center Ciclos biogeoquímicos
+            p.text-small  Los ciclos químicos naturales, como el ciclo del carbono, nitrógeno y fósforo, son esenciales para el funcionamiento de los ecosistemas y pueden ser influenciados por actividades humanas.
         
         
     

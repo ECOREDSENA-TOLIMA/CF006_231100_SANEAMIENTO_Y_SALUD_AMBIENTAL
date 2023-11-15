@@ -7,6 +7,8 @@
         span 2
       h1 Identificación de peligros y riesgos en factores ambientales
 
+    p Es esencial para la gestión efectiva de los aspectos ambientales en cualquier organización. Los peligros ambientales son situaciones o condiciones que tienen el potencial de causar daño al medio ambiente, mientras que los riesgos son la probabilidad de que esos peligros se materialicen y generen un impacto negativo.
+
     .row.align-items-center.my-3.col-lg-12.mb-4 
       .col-5
         figure
@@ -154,7 +156,7 @@
         .col-md-1
         .col-md-10
           .titulo-sexto.mb-0.color-acento-contenido.mb-4
-              p.mb-0 #[b  Figura 4.] 
+              p.mb-0 #[b  Figura 5.] 
                 i .  Análisis del Árbol de fallas
           figure
             img(src='@/assets/curso/temas/2/10.svg', alt='')

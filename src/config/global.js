@@ -161,27 +161,27 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Ambiente:',
+      termino: 'Ambiente',
       significado:
         'el entorno, incluyendo el agua, el aire y el suelo, y su interrelación, así como las relaciones entre estos elementos y cualesquiera organismos vivos (CAR, 2020).',
     },
     {
-      termino: 'Amenaza:',
+      termino: 'Amenaza',
       significado:
         'peligro latente asociado con un fenómeno físico de origen natural, de origen tecnológico o provocado por el hombre, que puede manifestarse en un sitio específico y en un tiempo determinado, produciendo efectos adversos en las personas, los bienes, servicios y el medio ambiente. Técnicamente se refiere a la probabilidad de ocurrencia de un evento con una cierta intensidad, en un sitio específico y en un periodo de tiempo determinado (CAR, 2020).',
     },
     {
-      termino: 'Gestión ambiental:',
+      termino: 'Gestión ambiental',
       significado:
         'conjunto de acciones que conducen al logro de objetivos ambientales de una organización, mediante el ejercicio amplio de fases de planificación, ejecución, verificación y control (Secretaría Distrital de Ambiente, 2018).',
     },
     {
-      termino: 'Impacto ambiental:',
+      termino: 'Impacto ambiental',
       significado:
         'cualquier alteración en el medio físico, químico, biológico, cultural y socioeconómico que pueda ser atribuido a actividades humanas relacionadas con las necesidades del proyecto (CAR, 2020).',
     },
     {
-      termino: 'Riesgo:',
+      termino: 'Riesgo',
       significado:
         'potencial de pérdidas que pueden ocurrirle al sistema o al sujeto expuesto y es el resultado de la convocatoria de la amenaza y la vulnerabilidad. El riesgo se puede expresar de forma matemática como la probabilidad de exceder un cierto nivel de consecuencias económicas, sociales o ambientales para un cierto lugar en un período de tiempo definido (Secretaría Distrital de Ambiente, 2018).',
     },
@@ -230,8 +230,7 @@ export default {
     {
       referencia:
         'Rodriguez, D. (2020). Factores Ambientales: Características y Clasificación',
-      link:
-        'https://oab.ambientebogota.gov.co/glossary/factor-ambiental/#:~:text=Un%20Factor%20Ambiental%20un%20elemento,al%20medio%20ambiente%20en%20conjunt',
+      link: '',
     },
     {
       referencia:
