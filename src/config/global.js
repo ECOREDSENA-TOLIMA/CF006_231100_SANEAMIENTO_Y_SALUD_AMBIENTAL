@@ -53,7 +53,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Gestión por procesosn',
+            titulo: 'Gestión por procesos',
             hash: 't_1_4',
           },
         ],
@@ -135,6 +135,11 @@ export default {
         download: 'downloads/material.zip',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_06_231100.pdf',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -173,7 +178,7 @@ export default {
     {
       termino: 'Gestión ambiental',
       significado:
-        'conjunto de acciones que conducen al logro de objetivos ambientales de una organización, mediante el ejercicio amplio de fases de planificación, ejecución, verificación y control (Secretaría Distrital de Ambiente, 2018).',
+        'conjunto de acciones que conducen al logro de objetivos ambientales de una organización, mediante el ejercicio amplio de fases de planificación, ejecución, verificación y control.',
     },
     {
       termino: 'Impacto ambiental',
@@ -243,6 +248,9 @@ export default {
         'Vigilancia en Salud Publica. (2012). Vigilancia En Salud Pública Y Gestión Del Conocimiento.',
       link:
         'http://www.saludcapital.gov.co/sitios/VigilanciaSaludPublica/Paginas/default.aspx',
+    },
+    {
+      referencia: ' Secretaría Distrital de Ambiente, 2018. ',
     },
   ],
   creditos: [

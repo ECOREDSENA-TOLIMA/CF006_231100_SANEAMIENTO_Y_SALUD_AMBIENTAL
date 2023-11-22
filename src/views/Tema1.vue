@@ -28,6 +28,62 @@
       
       p.my-5 Estos conceptos son fundamentales para evaluar y gestionar los riesgos ambientales y de salud pública de manera efectiva. La identificación y comprensión de los peligros es el primer paso para desarrollar estrategias de prevención y control que protejan a la población y al medio ambiente.
     
+    .tarjeta.tarjeta--azul.p-4.my-5(data-aos="fade-right" style="background-color:#E7FFD1")
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Medidas y protocolos <br>
+            p El buen manejo de residuos especiales.
+            p El almacenamiento de sustancias peligrosas o radioactivas.
+            p El uso de barreras protectoras que aseguren el bienestar y la seguridad de todos.
+            p Conocimiento y apliación de normas.
+            p Aplicación adecuada de procedimientos.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/1/2.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Riesgo biológico
+            p Son agentes y materiales que tienen el potencial de ser transmitidos a cualquier forma de vida, lo que incluye bacterias, virus, hongos y parásitos, y que pueden causar enfermedades en consecuencia. Estos riesgos biológicos representan una amenaza para la salud y la seguridad de las personas y requieren medidas de prevención y control adecuadas para evitar la propagación de enfermedades.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/1/3.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Biocontención
+            p Es un conjunto de medidas implementadas con el fin de prevenir la liberación o escape de enfermedades infecciosas desde centros de investigación, laboratorios u otros lugares donde puedan originarse este tipo de infecciones. Estas medidas son fundamentales para garantizar la seguridad tanto de las personas que trabajan en estos lugares como del público en general, evitando la propagación de enfermedades peligrosas.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/1/4.png', alt='')
+
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            h2 Bioprotección
+
+            p Es el conjunto de medidas o protocolos destinados a reducir en lo más posible la pérdida, robo, uso inadecuado e incluso liberación de patógenos y toxinas que están contenidas en algunas instalaciones, almacenamientos, bodegas, materiales, entre otros.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/1/5.png', alt='')      
+
+    .row.mb-4
+      .col-auto.my-5.mb-sm-0        
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #C1E29A") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px; background-color: #C1E29A") 
+              .col  
+              img(src="@/assets/curso/temas/2/23.svg" style="max-width: 65%; display: block; margin-top: -12px; " ) 
+            b.mx-3 Factores abióticos
+
+    p Estos son componentes no vivos del entorno que también afectan el ecosistema. Incluyen factores como la temperatura, la luz solar, el agua, el suelo, el pH, la presión atmosférica y otros elementos físicos y químicos. Los factores abióticos pueden influir en la distribución y la salud de los seres vivos en un área determinada y desempeñan un papel importante en la regulación de los ciclos biogeoquímicos. Los factores abióticos incluyen básicamente 4 grandes elementos: agua, aire, suelo y energía solar, como se podrá ver a continuación.
+ 
+
+
     Separador
 
     .cont_1_1(style="position:relative;")
@@ -219,7 +275,7 @@
 
     p.mb-5(style="overflow-x: hidden !important") Otra herramienta muy útil para gestionar los procesos de una empresa, es la implementación del Sistema de Gestión Ambiental (SGA) ISO 14001. La implementación del Sistema de Gestión Ambiental (SGA) ISO 14001 es, de hecho, una herramienta valiosa para las organizaciones que desean gestionar y mejorar su desempeño ambiental de manera estructurada y efectiva. Este sistema se basa en la norma internacional ISO 14001, que establece los requisitos para un SGA eficaz. Aquí hay una descripción general de los pasos comunes involucrados en la implementación de ISO 14001:
 
-    .tarjeta.tarjeta--gris.p-4(style="background:#E7FFD1")
+    .tarjeta.tarjeta--gris.p-4.col-lg-11(style="background:#E7FFD1")
       PasosB.color-acento-contenido
 
         .row(titulo="Paso 1")

@@ -25,7 +25,7 @@
 
             li 
               i.fas.fa-check
-              b Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM):
+              b Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM): 
               | se enfoca en la gestión de información ambiental y climática en Colombia y proporciona datos clave para la toma de decisiones relacionadas con el medio ambiente.
 
 

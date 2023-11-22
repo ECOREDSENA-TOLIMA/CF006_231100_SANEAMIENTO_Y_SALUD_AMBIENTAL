@@ -67,7 +67,7 @@
 
             li.my-4  
               i.fas.fa-check
-              b |Amenaza natural: 
+              b Amenaza natural: 
               | son peligros ambientales que tienen su origen en procesos naturales, como terremotos, inundaciones, tormentas, erupciones volcánicas y otros eventos geológicos, climáticos o hidrológicos.
 
             li.my-4  
@@ -142,7 +142,7 @@
               p.mb-0 #[b  Figura 4.] 
                 i .  Análisis del Árbol de fallas
           figure
-            img(src='@/assets/curso/temas/2/6.svg', alt='')
+            img(src='@/assets/curso/temas/2/6.svg', alt=' Diagrama de flujo donde se obseva el arbol de fallas, la causa principal, compuertas de lógica y los eventos correspondientes ')
       .row(titulo="Listas de Chequeo")
         .col-md-6.mb-4.mb-md-0
           p Esta metodología es la más utilizada para  identificar riesgos ambientales, donde por medio de preguntas estructuradas permite analizar factores de riesgo críticos y así poder establecer acciones que permitan prevenir o corregir a tiempo.
@@ -178,7 +178,7 @@
               p.mb-0 #[b  Figura 5.] 
                 i .  Análisis del Árbol de fallas
           figure
-            img(src='@/assets/curso/temas/2/10.svg', alt='')
+            img(src='@/assets/curso/temas/2/10.svg', alt='Diagrama de causa y efecto con todos sus elementos graficos')
 
      
        
