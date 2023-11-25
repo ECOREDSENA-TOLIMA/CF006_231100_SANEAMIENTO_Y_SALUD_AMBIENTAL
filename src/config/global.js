@@ -235,7 +235,12 @@ export default {
     {
       referencia:
         'Rodriguez, D. (2020). Factores Ambientales: Características y Clasificación',
-      link: '',
+      link: 'https://www.lifeder.com/factores-ambientales/ ',
+    },
+    {
+      referencia: 'Plan institucional de gestión ambiental',
+      link:
+        'http://gaia.gobiernobogota.gov.co/sites/default/files/sig/guias/ple-pinpl019_v1.pdf  ',
     },
     {
       referencia:
