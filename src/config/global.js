@@ -255,7 +255,10 @@ export default {
         'http://www.saludcapital.gov.co/sitios/VigilanciaSaludPublica/Paginas/default.aspx',
     },
     {
-      referencia: ' Secretaría Distrital de Ambiente, 2018. ',
+      referencia:
+        'Secretaria Distrital de Ambiente. (2019). Plan Institucional De Gestión Ambiental. Alcaldía Local de Bosa. ',
+      link:
+        'http://gaia.gobiernobogota.gov.co/sites/default/files/sig/guias/ple-pin-pl019_v1.pdf ',
     },
   ],
   creditos: [
