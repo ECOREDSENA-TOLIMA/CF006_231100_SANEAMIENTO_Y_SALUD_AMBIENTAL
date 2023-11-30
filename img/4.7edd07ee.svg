@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="504" height="621.933" viewBox="0 0 504 621.933">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1075641" data-name="Grupo 1075641" transform="translate(-946 8578.654)">
+    <g id="Grupo_1075515" data-name="Grupo 1075515" transform="translate(556 -15080.654)">
+      <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="504" height="621.933" transform="translate(894 7123.933) rotate(180)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Trazado_828802" data-name="Trazado 828802" d="M-7765.024-5914.1l145-130.037" transform="translate(8825.023 -2389.432)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_828803" data-name="Trazado 828803" d="M-7613.023-5914.1l-152-130.036" transform="translate(8963.023 -2389.432)" fill="none" stroke="#707070" stroke-width="2"/>
+    <rect id="Rectángulo_378779" data-name="Rectángulo 378779" width="184" height="59" rx="23" transform="translate(968 -8311.58)" fill="#c1e29a"/>
+    <text id="Factores_bióticos" data-name="Factores bióticos" transform="translate(1060 -8275.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-61.875" y="0">Factores bióticos</tspan></text>
+    <rect id="Rectángulo_378780" data-name="Rectángulo 378780" width="184" height="59" rx="23" transform="translate(1233 -8310.58)" fill="#c1e29a"/>
+    <text id="Factores_abióticos" data-name="Factores abióticos" transform="translate(1325 -8274.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-66.164" y="0">Factores abióticos</tspan></text>
+    <rect id="Rectángulo_378778" data-name="Rectángulo 378778" width="210" height="100" rx="23" transform="translate(1093 -8528.58)" fill="#ffae7e"/>
+    <text id="Clasificación_de_factores_ambientales" data-name="Clasificación de
+factores ambientales" transform="translate(1115 -8484.58)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Clasificación de</tspan><tspan x="0" y="25">factores ambientales</tspan></text>
+    <rect id="Rectángulo_378781" data-name="Rectángulo 378781" width="184" height="37" rx="18.5" transform="translate(968 -8223.58)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378782" data-name="Rectángulo 378782" width="184" height="37" rx="18.5" transform="translate(968 -8155.58)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378783" data-name="Rectángulo 378783" width="184" height="37" rx="18.5" transform="translate(968 -8087.58)" fill="#ffd4bb"/>
+    <text id="Productores" transform="translate(1060 -8200.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-44.008" y="0">Productores</tspan></text>
+    <text id="Consumidores" transform="translate(1060 -8132.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.188" y="0">Consumidores</tspan></text>
+    <text id="Descomponedores" transform="translate(1060 -8064.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.402" y="0">Descomponedores</tspan></text>
+    <rect id="Rectángulo_378784" data-name="Rectángulo 378784" width="184" height="37" rx="18.5" transform="translate(1233 -8223.58)" fill="#ffd4bb"/>
+    <rect id="Rectángulo_378785" data-name="Rectángulo 378785" width="184" height="37" rx="18.5" transform="translate(1233 -8155.58)" fill="#ffd4bb"/>
+    <text id="Factores_físicos" data-name="Factores físicos" transform="translate(1325 -8200.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-57.195" y="0">Factores físicos</tspan></text>
+    <text id="Factores_Químicos" data-name="Factores Químicos" transform="translate(1325 -8132.58)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.141" y="0">Factores Químicos</tspan></text>
+    <line id="Línea_1215" data-name="Línea 1215" y2="29" transform="translate(1059.999 -8252.18)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_1218" data-name="Línea 1218" y2="29" transform="translate(1328.999 -8252.18)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_1216" data-name="Línea 1216" y2="29" transform="translate(1059.999 -8184.58)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_1219" data-name="Línea 1219" y2="29" transform="translate(1328.999 -8184.58)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_1217" data-name="Línea 1217" y2="29" transform="translate(1059.999 -8118.58)" fill="none" stroke="#707070" stroke-width="2"/>
+  </g>
+</svg>
