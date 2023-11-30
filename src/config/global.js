@@ -131,13 +131,13 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_06_231100.zip',
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar pdf',
-        download: 'downloads/CFA_06_231100.pdf',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
